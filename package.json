@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-i18next": "^11.15.1",
+    "redux-persist": "^6.0.0"
+  }
+}

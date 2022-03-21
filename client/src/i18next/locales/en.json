@@ -1,0 +1,71 @@
+{
+  "authScreen": {
+    "loginText": "Login",
+    "signUpText": "Sign up",
+    "registerText": "Register an account",
+    "usernamePlaceholder": "Username",
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Password",
+    "confirmPasswordPlaceholder": "Confirm password",
+    "needAccountText": "Need an account?",
+    "haveAccountText": "Already have and account?",
+    "signInGoogleText": "Sign in using ",
+    "googleText": "Google",
+    "logoutText": "Logout",
+    "confirmEmailTitle": "Please confirm your email address",
+    "confirmationText": "We have sent you a link with the confirmation code. Please verify your address to login.",
+    "verifiedTitle": "Thank you for signing up!",
+    "loginCTA": "Please login to continue."
+  },
+  "profileScreen": {
+    "myPostsText": "My posts",
+    "profileDetailsText": "Profile details",
+    "noUsername": "You dont have a username yet",
+    "editProfileText": "Edit profile",
+    "noPostsText": "No posts yet...",
+    "addPostsNowText": "Add posts now!"
+  },
+  "newsFeedScreen": {
+    "createPostTitle": "Create a post",
+    "titlePlaceholder": "Title",
+    "postMessagePlaceholder": "Write message here",
+    "editText": "Edit",
+    "deleteText": "Delete",
+    "saveText": "Save",
+    "editTitlePlaceholder": "Edit title",
+    "editMessagePlaceholder": "Edit message",
+    "cancelText": "Cancel",
+    "postText": "Post",
+    "clearText": "Clear",
+    "newsFeedTitle": "News feed",
+    "addCommentText": "Add comment",
+    "commentText": "Comment",
+    "deleteCommentText": "Delete comment",
+    "commentsTitle": "Comments",
+    "noCommentText": "No comments yet",
+    "confirmDeletePostText": "Are you sure you want to delete this post?",
+    "confirmDeleteCommentText": "Are you sure you want to delete this comment?",
+    "deletePostText": "Delete Post",    
+    "pleaseLoginText": "Please login to create a post"
+
+  },
+  "navigationScreen": {
+    "homeText": "Home",
+    "profileText": "Profile"
+  },
+  "errorMessages": {
+    "userAlreadyExists": "User already exists",
+    "userNotFound": "User not found",
+    "passwordIncorrect": "Password incorrect",
+    "passwordsDontMatch": "Passwords dont match",
+    "passwordLengthError": "Password must be at least 8 characters",
+    "invalidEmailText": "Email is invalid",
+    "usernameRequiredText": "Username is required",
+    "passwordRequiredText": "Password is required",
+    "emailRequiredText": "Email is required",
+    "confirmPasswordText": "Confirm your password",
+    "noMessageTitleError": "Please add a title",
+    "noMessageError": "Please write a post",
+    "noCommentError": "Please add a comment"
+  }
+}
